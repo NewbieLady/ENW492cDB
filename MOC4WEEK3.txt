@@ -4,6 +4,7 @@ Is this word appropriate for an academic essay? y'all|No
 Is this word appropriate for an academic essay? therefore|Yes
 Is this word appropriate for an academic essay? increase|Yes
 Is this word appropriate for an academic essay? gonna|No
+Is this word appropriate for an academic essay? dummy|No
 True or False? You should use as many academic words as possible in your research paper even if you don't know what all of them mean.|False
 Which of the following is not a reason to use a statistic in your research paper?|to make your paper longer
 Which of the following is not an appropriate place to use a statistic in your research paper?|in the thesis statement
