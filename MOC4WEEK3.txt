@@ -1,0 +1,8 @@
+Is this phrase appropriate for an academic essay? drunk as a skunk|No
+Is this expression appropriate for an academic essay? It's a piece of cake.|No
+Is this word appropriate for an academic essay? y'all|No
+Is this word appropriate for an academic essay? therefore|Yes
+True or False? You should use as many academic words as possible in your research paper even if you don't know what all of them mean.|False
+Which of the following is not a reason to use a statistic in your research paper?|to make your paper longer
+Which of the following is not an appropriate place to use a statistic in your research paper?|in the thesis statement
+Which of the following groups of words is definitely not on the Academic Word List?|snooze, nerdy, lame
