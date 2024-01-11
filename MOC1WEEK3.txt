@@ -19,3 +19,5 @@ Which sentence is punctuated correctly?|We will buy a new sofa and table if ther
 Which sentence is punctuated correctly?|Michael and Sam gave Paul and me some tips on how to throw a basketball since we needed some help with our form.
 Which sentence is punctuated correctly?|The girls know how to fix cars and play basketball, but the boys don't know how to do those things.
 Which sentence is punctuated correctly?|I went to get a loan from the bank; they told me that my credit was good.
+Is the following sentence punctuated correctly? Mary's parents took her to the park, and they invited all of her friends to her birthday party.|Yes
+Is the following sentence punctuated correctly? Jordan is a happy baby, because his parents play with him all the time.|No
